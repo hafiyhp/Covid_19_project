@@ -5,7 +5,7 @@
 This project assesses the impact of COVID-19 on a global scale and focuses on data analysis and visualization. The project consists of three main components: data preprocessing, database integration, and data analysis.
 
 ## Data Preprocessing ##
-We start by collecting raw COVID-19 data from various sources. Using Python, we preprocess this massive dataset, which contains over 100 million records. The preprocessing steps involve cleaning, formatting, and structuring the data for further analysis.
+We start by collecting raw COVID-19 data from a reputable source(https://www.bing.com/ck/a?!&&p=c330b4941f7ae93aJmltdHM9MTY5NzUwMDgwMCZpZ3VpZD0yMTMxYjY3OS0yNjhjLTZmMTMtMDFlZi1hNDhiMjdiNDZlZTImaW5zaWQ9NTI3Nw&ptn=3&hsh=3&fclid=2131b679-268c-6f13-01ef-a48b27b46ee2&psq=covid+data&u=a1aHR0cHM6Ly9vdXJ3b3JsZGluZGF0YS5vcmcvY29yb25hdmlydXM&ntb=1). Using Python, we preprocess this massive dataset, which contains over 100 million records. The preprocessing steps involve cleaning, formatting, and structuring the data for further analysis.
 
 ## Database Integration ##
 The cleaned data is integrated into a PostgreSQL database. SQL queries are optimized to improve performance, resulting in a 39% reduction in execution time. We've developed a custom Python script to automate data collection and analysis, saving significant time.
